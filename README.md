@@ -35,7 +35,7 @@ Used to securely link 2 computers or networks across an unsecured network like t
 
 <h2>What is it and how to know it works</h2>
 
- 1. What is a VPN? How is a VPN used to work outside of the office?
+  1. What is a VPN? How is a VPN used to work outside of the office?
      <p>
        
      </p>
