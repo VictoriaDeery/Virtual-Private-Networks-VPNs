@@ -3,7 +3,7 @@
 <p align="center" height="10%" width="10%">
 
 
-$<img width="250" alt="image" src="https://github.com/user-attachments/assets/f4c0951f-ab2d-4d5d-9ed3-1b4e4589ed39" alt="VPN Schematic"/>
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/f4c0951f-ab2d-4d5d-9ed3-1b4e4589ed39" alt="VPN Schematic"/>
 </p>
 
 
@@ -15,27 +15,25 @@ Used to securely link 2 computers or networks across an unsecured network like t
 
 <h2>Video Demonstration</h2>
 
-$- ### [YouTube: How To Create A Virtual Machine And Use It-Coming Soon](https://www.youtube.com)
+- ### [YouTube: How To Create A Virtual Machine And Use It-Coming Soon](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure
   - Virtual Machines (Windows)
-  - Azure Network Security Groups (Firewall Resource)
 - Remote Desktop
-- Powershell
 - Proton VPN (free trial account)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-$<h2>List of Prerequisites</h2>
+<h2>List of Prerequisites</h2>
 
 - Azure Account
 - [Azure Compute and Networking](https://github.com/victoriadeery/azure-computing-and-networking) for detailed steps on how to create a VM on Azure
 
-<h2>A. Creation Steps</h2>
+<h2>A. Steps</h2>
 
  1. What is a VPN? How is a VPN used to work outside of the office?
      <p>
@@ -57,9 +55,9 @@ $<h2>List of Prerequisites</h2>
 <br />
 
 <p>
-  3. Compare locale and IP addresses from your computer, an Azure virtual machine (VM), and a ProtonVPN on your VM by connecting to www.whatismyipaddress.com on each of them
+  3. Compare locale and IP addresses from your computer, an Azure virtual machine (VM), and a ProtonVPN on your VM by connecting to www.whatismyipaddress.com on each of them.
 <p>
-$<img src="https://github.com/user-attachments/assets/ea4a810c-73a4-4119-8986-1e62cd4b8055" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/ea4a810c-73a4-4119-8986-1e62cd4b8055" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 3. First create the VM. For detailed steps on how to create a VM on Azure go to my repository: [Azure Compute and Networking](https://github.com/victoriadeery/azure-computing-and-networking). You'll see your computer, the VM, and the VPN display different IP addresses and regions. I have kept track of the info from www.whatismyipaddress.com on each of them on a notepad (displayed).
