@@ -1,9 +1,9 @@
 # Virtual-Private-Networks-VPNs
 
-<p align="center" height="10%" width="10%">
+<p align="center" height="30%" width="30%">
 
 
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/f4c0951f-ab2d-4d5d-9ed3-1b4e4589ed39" alt="VPN Schematic"/>
+<img width="540" alt="image" src="https://github.com/user-attachments/assets/f4c0951f-ab2d-4d5d-9ed3-1b4e4589ed39" alt="VPN Schematic"/>
 </p>
 
 
