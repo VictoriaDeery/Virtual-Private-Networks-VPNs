@@ -33,7 +33,7 @@ Used to securely link 2 computers or networks across an unsecured network like t
 - Azure Account
 - [Azure Compute and Networking](https://github.com/victoriadeery/azure-computing-and-networking) for detailed steps on how to create a VM on Azure
 
-<h2>A. Steps</h2>
+<h2>What is it and how to know it works</h2>
 
  1. What is a VPN? How is a VPN used to work outside of the office?
      <p>
